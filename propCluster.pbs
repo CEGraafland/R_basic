@@ -1,0 +1,18 @@
+#!/bin/bash
+### Job name
+###PBS -N cfs:region
+### Max run time
+###PBS -l walltime=150:00:00
+### Queue name
+#PBS -q bamd
+### Number of nodes and processors per node
+#PBS -l nodes=1:ppn=1
+#PBS -l mem=15Gb
+#PBS -M catharina.graafland@unican.es
+#PBS -m bea
+###PBS -W 506119
+
+WORKDIR=/oceano/gmeteo/WORK/lisette/Trabajo/R_practice/R
+cd $WORKDIR
+
+R -f ./propCluster.R >& ./propCluster.${PBS_JOBID}.log

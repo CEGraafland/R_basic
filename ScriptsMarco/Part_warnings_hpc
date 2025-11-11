@@ -1,0 +1,105 @@
+There were 50 or more warnings (use warnings() to see the first 50)
+> 
+> warnings()
+Warning messages:
+1: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+2: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+3: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+4: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+5: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+6: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+7: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+8: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+9: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+10: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+11: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+12: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+13: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+14: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+15: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+16: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+17: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+18: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+19: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+20: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+21: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+22: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+23: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+24: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+25: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+26: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+27: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+28: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+29: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+30: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+31: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+32: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+33: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+34: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+35: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+36: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+37: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+38: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+39: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+40: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+41: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+42: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+43: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+44: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+45: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+46: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+47: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+48: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+49: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+50: In allsubs.test(x = x, y = node, sx = setdiff(mbs, node),  ... :
+  fixed correlation coefficient lesser than -1, probably due to floating point errors.
+
